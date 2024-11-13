@@ -1,0 +1,1 @@
+this is a QR code sample made using html,css and some javascript template.
